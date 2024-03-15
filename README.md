@@ -24,7 +24,7 @@ Ensure you have the following prerequisites installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/niladrigithub/gan-image-generation.git
+   git clone https://github.com/niladrridas/gan-image-generation.git
 
 ## Usage
 1. Run the GAN script:
@@ -38,8 +38,8 @@ This will initiate the training process. The GAN will generate images at specifi
 Observe the quality of generated images over epochs and explore the generated content.
 
 ## Preview
-![Image Preview](https://github.com/niladrigithub/gan-image-generation/blob/main/Screenshot%202024-02-05%20at%2022.25.44.png)
-![Image Preview](https://github.com/niladrigithub/gan-image-generation/blob/main/Screenshot%202024-02-05%20at%2022.25.59.png)
+![Image Preview](https://github.com/niladrridas/gan-image-generation/blob/main/Screenshot%202024-02-05%20at%2022.25.44.png)
+![Image Preview](https://github.com/niladrridas/gan-image-generation/blob/main/Screenshot%202024-02-05%20at%2022.25.59.png)
 
 ## Project Structure
 `gan.py:` Main script for training the GAN.
@@ -47,7 +47,7 @@ Observe the quality of generated images over epochs and explore the generated co
 `README.md:` Project documentation.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrigithub/gan-image-generation/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrridas/gan-image-generation/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 Inspired by the works on GANs and image generation.
