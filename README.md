@@ -24,7 +24,7 @@ Ensure you have the following prerequisites installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/niladrridas/gan-image-generation.git
+   git clone https://github.com/niladrridas/gan.git
 
 ## Usage
 1. Run the GAN script:
@@ -47,7 +47,7 @@ Observe the quality of generated images over epochs and explore the generated co
 `README.md:` Project documentation.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrridas/gan-image-generation/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/niladrridas/gan/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 Inspired by the works on GANs and image generation.
